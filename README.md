@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Tom
-- 👀 I’m interested in Machine learning and games
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Machine learning and embedded systems
+- 🌱 I’m currently learning cpp.
